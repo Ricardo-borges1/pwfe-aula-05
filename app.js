@@ -3,7 +3,7 @@
 const pessoas = [
 
     {
-        nome: 'Leticia Amor',
+        nome: 'Leticia Cobucci',
         imagem: 'leticia.jpeg',
         mensagem: 'Se cuida, te amo',
         contato: 'Ricardo Borges',
@@ -16,16 +16,16 @@ const pessoas = [
         imagem: 'cr7.webp',
         mensagem: 'Fala gajo, vem pra Arábia, precisamos de um Meio Campo!',
         contato: 'Ricardo Borges',
-        tempo: 'Agora mesmo',
+        tempo: '25min',
         quantidade: '1'
     },
 
     {
         nome: 'Juan',
         imagem: 'juan.jpeg',
-        mensagem: 'Me da 5 reais, to duro',
+        mensagem: 'Me da 5 reais, comprar um salgado aqui',
         contato: 'Ricardo Borges',
-        tempo: 'Agora mesmo',
+        tempo: '10min',
         quantidade: '2'
     },
 
