@@ -16,7 +16,7 @@ const pessoas = [
         imagem: 'cr7.webp',
         mensagem: 'Fala gajo, vem pra Arábia, precisamos de um Meio Campo!',
         contato: 'Ricardo Borges',
-        tempo: '25min',
+        tempo: 'Há 25min',
         quantidade: '1'
     },
 
@@ -25,7 +25,7 @@ const pessoas = [
         imagem: 'juan.jpeg',
         mensagem: 'Me da 5 reais, comprar um salgado aqui',
         contato: 'Ricardo Borges',
-        tempo: '10min',
+        tempo: 'Há 10min',
         quantidade: '2'
     },
 
